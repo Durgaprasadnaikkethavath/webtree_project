@@ -1,0 +1,29 @@
+* {
+  border: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.cart_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 166px;
+}
+
+.name {
+  display: flex;
+  gap: 30px;
+}
+
+.gender {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
